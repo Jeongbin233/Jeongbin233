@@ -32,12 +32,14 @@ I want to become a developer who can apply AI in the future
 <br/>
 🔍 Backend 🔍
 <br/>
+  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <br/>
-
+<br/>
+  <br/>
 ⚾️ Server & CI/CD ⚾️
 <br/>
   <br/>
@@ -49,14 +51,16 @@ I want to become a developer who can apply AI in the future
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 <br/>
-
+<br/>
+  <br/>
 🎀 Frontend 🎀
 <br/>
   <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4479A1?style=flat&logo=vuedotjs&logoColor=white"/>
 <br/>
-
+<br/>
+  <br/>
 💾 Data 💾
 <br/>
   <br/>
@@ -67,6 +71,8 @@ I want to become a developer who can apply AI in the future
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 <br/>
+  <br/>
+  <br/>
 
 📎Tools📎
 <br/>
@@ -79,6 +85,8 @@ I want to become a developer who can apply AI in the future
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
 <br/>
+  <br/>
+  <br/>
 
 💡 SNS 💡
 <br/>
@@ -88,7 +96,9 @@ I want to become a developer who can apply AI in the future
 <a href="https://www.instagram.com/bonny_319/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/shadberry02"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 </div>
-
+<br/>
+<br/>
+<br/>
 <br/>
 <!--
 [![Solved.ac

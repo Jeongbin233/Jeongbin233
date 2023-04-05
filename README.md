@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 Hi, I'm JeongBin🫶🏻 <br/>
 I'm trying to be a backend developer <br/>
 I want to become a developer who can apply AI in the future
-
+  
+🎓 Hongik Uiv. Computer Engeinering
+💙 SSAFY 8th
 ---
 
 
@@ -72,7 +74,7 @@ I want to become a developer who can apply AI in the future
 <img src="https://img.shields.io/badge/confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
 <br/>
 
-💙SNS💙
+💡 SNS 💡
 <br/>
 <a href="https://bonny319.tistory.com/"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeongbin-ham/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>

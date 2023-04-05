@@ -81,9 +81,10 @@ I want to become a developer who can apply AI in the future
 </div>
 
 
+<div align = "center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shadberry02)](https://solved.ac/shadberry02)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongbin233&theme=discord_old_blurple&show_icons=true&theme=radical)
-
+<a href="https://github.com/Jeongbin233"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jeongbin233&show_icons=true&theme=nord&hide_border=true" /></a> 
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B7D7F4&height=200&section=footer)

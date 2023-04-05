@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?
 type=waving&color=BDDFF0&height=300&section=header&text=JeongCong%20Github&fontSize=65&fontColor=323B4D)
 -->
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shadberry02](https://capsule-render.vercel.app/api?type=waving&color=BDDFF0&height=300&section=header&text=JeongCong%20Github&fontSize=65&fontColor=323B4D" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=BDDFF0&height=300&section=header&text=JeongCong%20Github&fontSize=65&fontColor=323B4D" />
 
 
 <!--

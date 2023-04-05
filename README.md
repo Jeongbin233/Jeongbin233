@@ -22,6 +22,7 @@ I want to become a developer who can apply AI in the future
   
 🎓 Hongik Uiv. Computer Engeinering
 💙 SSAFY 8th
+
 ---
 
 

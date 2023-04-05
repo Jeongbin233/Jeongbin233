@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 Hi, I'm JeongBin🫶🏻 <br/>
 I'm trying to be a backend developer <br/>
 I want to become a developer who can apply AI in the future
-  
-🎓 Hongik Uiv. Computer Engeinering
+<br/>
+<br/>
+🎓 Hongik Uiv. Computer Engeinering <br/>
 💙 SSAFY 8th
 
 ---

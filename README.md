@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B7D7F4&height=300&section=header&text=JeongCong%20Github&fontSize=65&fontColor=2A2A52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDDFF0&height=300&section=header&text=JeongCong%20Github&fontSize=65&fontColor=white)
 
 <!--
 **Jeongbin233/Jeongbin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,9 +85,12 @@ I want to become a developer who can apply AI in the future
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shadberry02)](https://solved.ac/shadberry02)
 -->
+<div align="left">
 <a href="https://solved.ac/shadberry02"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shadberry02" /></a> 
+</div>
 
-
-<a href="https://github.com/Jeongbin233"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jeongbin233&show_icons=true&theme=nord&hide_border=true" /></a> 
+<div align="right">
+<a href="https://github.com/Jeongbin233"><img src="https://github-readme-stats.vercel.app/api?username=Jeongbin233&show_icons=true&theme=nord&hide_border=true" /></a> 
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B7D7F4&height=200&section=footer)

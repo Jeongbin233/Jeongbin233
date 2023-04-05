@@ -29,7 +29,7 @@ I want to become a developer who can apply AI in the future
 
 💻Tech Stack💻
 <br/>
-
+<br/>
 🔍 Backend 🔍
 <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>
@@ -40,6 +40,7 @@ I want to become a developer who can apply AI in the future
 
 ⚾️ Server & CI/CD ⚾️
 <br/>
+  <br/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
@@ -51,12 +52,14 @@ I want to become a developer who can apply AI in the future
 
 🎀 Frontend 🎀
 <br/>
+  <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4479A1?style=flat&logo=vuedotjs&logoColor=white"/>
 <br/>
 
 💾 Data 💾
 <br/>
+  <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 <br/>
@@ -67,6 +70,7 @@ I want to become a developer who can apply AI in the future
 
 📎Tools📎
 <br/>
+  <br/>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/mattermost-0058CC?style=flat&logo=mattermost&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
@@ -78,13 +82,14 @@ I want to become a developer who can apply AI in the future
 
 💡 SNS 💡
 <br/>
+  <br/>
 <a href="https://bonny319.tistory.com/"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeongbin-ham/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/bonny_319/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/shadberry02"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 </div>
 
-
+<br/>
 <!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shadberry02)](https://solved.ac/shadberry02)

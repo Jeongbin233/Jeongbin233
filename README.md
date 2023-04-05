@@ -26,7 +26,7 @@ I'm trying to be a backend developer <br/>
 I want to become a developer who can apply AI in the future
 <br/>
 <br/>
-🎓 Hongik Uiv. Computer Engeinering <br/>
+🎓 Hongik Univ. Computer Engineering <br/>
 💙 SSAFY 8th
 
 ---

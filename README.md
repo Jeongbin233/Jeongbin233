@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-Hi, I'm JeongBin🫶🏻 <br/>
+Hi, I'm JeongBin🌱 <br/>
 I'm trying to be a backend developer <br/>
 I want to become a developer who can apply AI in the future
 <br/>
